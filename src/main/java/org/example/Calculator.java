@@ -1,11 +1,20 @@
 package org.example;
 
+//Zaimplementuj prosty kalkulator, który potrafi:
+//        * dodawać,
+//        * odejmować,
+//        * mnożyć,
+//        * dzielić,
+//        * wykonywać dwie operacje zaproponowane przez Ciebie
+//na dwóch liczbach rzeczywistych.
+//Napisz testy jednostkowe, aby sprawdzić poprawność operacji matematycznych.
+
 public class Calculator {
     public float add (float a, float b) {
         return a + b;
     }
 
-    public float deduct (float a, float b) {
+    public float subtract(float a, float b) {
         return a - b;
     }
 
@@ -25,6 +34,4 @@ public class Calculator {
     public float power(double base, double exponent) {
         return (float) Math.pow(base, exponent);
     }
-
-
 }
