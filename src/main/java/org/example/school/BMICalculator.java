@@ -1,4 +1,4 @@
-package org.example;
+package org.example.school;
 
 //Zaimplementuj kalkulator indeksu masy ciała (BMI), który przyjmuje wagę
 //i wzrost osoby i zwraca ich BMI.

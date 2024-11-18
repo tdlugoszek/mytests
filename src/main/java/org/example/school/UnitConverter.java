@@ -1,4 +1,4 @@
-package org.example;
+package org.example.school;
 
 public class UnitConverter {
     private void validateInput(double value) {

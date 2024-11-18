@@ -1,4 +1,4 @@
-package org.example;
+package org.example.school;
 
 //Stwórz klasę StringUtilities, która będzie zawierała różne metody do operacji na łańcuchach znaków, takie jak:
 //        * odwracanie,
